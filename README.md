@@ -23,3 +23,5 @@ required but highly recommended to keep your GKE cluster isolated.
 
 
 This basic project, will create `vpc` and `subnet` for GKE cluster, Plus creating the GKE cluster name and host.
+<img width="711" alt="Screenshot 2021-08-24 at 16 16 47" src="https://user-images.githubusercontent.com/1905513/130633469-9b218ca8-3c19-4ebc-b4de-0fc19595a0c1.png">
+
